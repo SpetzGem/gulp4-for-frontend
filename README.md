@@ -1,5 +1,5 @@
 # Измененный стартовый шаблон автора канала FrontCoder
-Используется связка `Gulp` + `Pug` + `SCSS` + `BrowserSync` + `Linters` + `Smart-grid`
+Используется связка `Gulp` + `Pug` + `SCSS` + `BrowserSync` + `Linters` + [smart-grid](https://github.com/dmitry-lavrik/smart-grid)
 
 ## Установка
 Склонировать репозиторий и выполнить npm install
