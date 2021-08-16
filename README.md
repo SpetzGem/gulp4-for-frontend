@@ -1,5 +1,5 @@
-# Стартовый шаблон автора канала FrontCoder
-Используется связка `Gulp` + `Pug` + `SCSS` + `BrowserSync` + `Linters`
+# Измененный стартовый шаблон автора канала FrontCoder
+Используется связка `Gulp` + `Pug` + `SCSS` + `BrowserSync` + `Linters` + `Smart-grid`
 
 ## Установка
 Склонировать репозиторий и выполнить npm install
