@@ -58,6 +58,15 @@ input,
 select,
 button { outline: none; }
 
+<<<<<<< HEAD
+=======
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+>>>>>>> 4a3ace358502fdf110442bd9508d1a687f53808b
 .content { flex: 1 0 auto; }
 
 .container {
